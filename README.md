@@ -1,2 +1,2 @@
 # pretty-simple
-WordPess Theme Pretty Simple
+WordPress Theme Pretty Simple as a school project.
